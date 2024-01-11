@@ -1,4 +1,6 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&text=guteIdee)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhok2285)](https://solved.ac/kdhok2285)
 
 <!--
 **guteIdee/guteIdee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
