@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&text=guteIdee)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdhok2285)](https://solved.ac/kdhok2285)
 
 <!--
